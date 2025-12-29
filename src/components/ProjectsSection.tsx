@@ -3,11 +3,11 @@ import { Button } from "./ui/button";
 
 const projects = [
   {
-    title: "Pandas from Scratch",
+    title: "BudgetPandas",
     description: "A custom implementation of the popular Pandas library, built from the ground up to understand data manipulation fundamentals and data structure design.",
     tags: ["Python", "Data Structures", "Algorithms"],
     icon: Database,
-    github: "#",
+    github: "https://github.com/justEmam/BudgetPandas",
     demo: null,
   },
   {
@@ -15,7 +15,7 @@ const projects = [
     description: "A full-featured user management system with authentication, role-based access control, and user CRUD operations.",
     tags: ["Python", "Backend", "Authentication"],
     icon: Users,
-    github: "#",
+    github: "https://github.com/justEmam/user_management_system",
     demo: null,
   },
   {
