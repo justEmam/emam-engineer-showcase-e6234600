@@ -22,7 +22,7 @@ const ContactSection = () => {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
             <a 
-              href="mailto:mahmoud@example.com"
+              href="mailto:mahmoudemam2231@outlook.com"
               className="flex items-center gap-3 px-6 py-4 rounded-xl border border-border bg-card hover:border-primary/50 hover:glow-card transition-all duration-300 w-full sm:w-auto"
             >
               <div className="w-10 h-10 rounded-lg bg-gradient-primary flex items-center justify-center">
@@ -30,7 +30,7 @@ const ContactSection = () => {
               </div>
               <div className="text-left">
                 <p className="text-sm text-muted-foreground">Email</p>
-                <p className="font-medium">mahmoud@example.com</p>
+                <p className="font-medium">mahmoudemam2231@outlook.com</p>
               </div>
             </a>
 
@@ -46,7 +46,7 @@ const ContactSection = () => {
           </div>
 
           <Button variant="glow" size="lg" asChild>
-            <a href="mailto:mahmoud@example.com">
+            <a href="mailto:mahmoudemam2231@outlook.com">
               <Send className="w-4 h-4 mr-2" />
               Send Message
             </a>
