@@ -5,6 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  base: "/emam-engineer-showcase-e6234600/",
   server: {
     host: "::",
     port: 8080,
