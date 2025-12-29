@@ -1,5 +1,5 @@
 import { Trophy, Award, Target } from "lucide-react";
-import achievementImage from "@/assets/mondelez-achievement.jpg";
+import achievementImage from "@/assets/mondelez-achievement.png";
 
 const AchievementSection = () => {
   return (
